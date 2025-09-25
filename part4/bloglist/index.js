@@ -29,7 +29,6 @@ app.listen(config.PORT, () => {
 
 // const Blog = mongoose.model('Blog', blogSchema, 'blogs') 
 
-// const mongoUrl = `mongodb+srv://fullstack:Huangjie926.@cluster0.kfrawjo.mongodb.net/BlogApp?retryWrites=true&w=majority&appName=Cluster0`
 
 // mongoose.set('strictQuery', false)
 // mongoose.connect(mongoUrl)
